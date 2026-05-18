@@ -1,5 +1,4 @@
-# carball.io
-
+# SpeedStrike
 ## how to run on a server
 1. pnpm i
 2. npm run build
